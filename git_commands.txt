@@ -1,0 +1,11 @@
+git init
+git status
+git add testing.py
+git rm --cached testing.py
+git commit -m "adding demo"
+git config --global --list
+git config user.name...
+git config --global user.email "219380549+NaikNNikhil@users.noreply.github.com"...    
+git add .
+git commit -m "adding demo"
+git restore testing.py
